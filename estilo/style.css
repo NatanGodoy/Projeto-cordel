@@ -17,12 +17,7 @@
     font-size: 1em;
 }
 
-body {
-    min-height: 100vh;
-    background-color: darkgray;
-    font-family: var(--fonte1);
-    
-}
+
 
 header {
     background-color: black;
@@ -51,6 +46,11 @@ header a:hover {
     text-decoration: underline;
 }
 
+body {
+    min-height: 100vh;
+    background-color: darkgray;
+    font-family: var(--fonte1);
+}
 
 section {
     padding-top: 10vh;
